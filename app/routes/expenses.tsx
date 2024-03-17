@@ -1,5 +1,5 @@
-export default function ExpensesPage(){
+export default function Expenses(){
     return(
-        <h1>This is expenses page</h1>
+        <h1>expenses is this ss</h1>
     )
 }
